@@ -1,0 +1,1 @@
+﻿Get-ADObject -Identity identity -IncludeDeletedObjects | Restore-ADObject 

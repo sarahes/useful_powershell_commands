@@ -1,0 +1,1 @@
+﻿Get-ADObject -filter 'isDeleted -eq $true' –IncludeDeletedObjects
